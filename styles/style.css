@@ -47,6 +47,7 @@
 }
 
 .address {
+  width: 237px;
   color: #000;
   font-weight: 400;
   font-size: 18px;
@@ -266,10 +267,6 @@
   display: flex;
   justify-content: space-between;
   padding: 0 50px 88px;
-}
-
-.address {
-  width: 237px;
 }
 
 .footer__menu-list {
